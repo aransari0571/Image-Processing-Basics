@@ -50,10 +50,6 @@ To understand how images are represented and manipulated using Python libraries 
 - Experiment with face detection (Haar Cascades)
 - Convert notebook into an interactive Streamlit or Gradio app
 
-👨‍💻 Author
-AR Ansari
-Data Science & AI Learner
-GitHub Profile
 
 
 🧩 Example Code
